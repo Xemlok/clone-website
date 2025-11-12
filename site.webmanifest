@@ -1,0 +1,25 @@
+{
+  "name": "Dragonfly Capital",
+  "short_name": "DCP",
+  "description": "We’re Crypto-Natives Who Have Been Investing and Building for 10+ Years. Founded in 2018, Dragonfly Brings Access and Influence to Help Crypto Teams with Global Aspirations Find Innovation and Adoption Anywhere.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#FA4C14",
+  "background_color": "#000000",
+  "start_url": "/",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait"
+}
